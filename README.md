@@ -3,6 +3,7 @@
 Bienvenido a la versión de Windows/MaOS de Synapse. Esta herramienta automatiza tus operaciones en Bitso Alpha de forma local y segura.
 
 =====================================================================
+
 ⚙️ MANUAL DE INICIO RÁPIDO - SYNAPSE MULTI-ASSET QUANT SUITE ⚙️
 =====================================================================
 
