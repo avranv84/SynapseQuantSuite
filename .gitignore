@@ -1,0 +1,10 @@
+# Carpetas de compilación
+dist/
+build/
+_pycache_/
+*.pyc
+
+# Configuración personal
+config_synapse_free.ini
+*.env
+.DS_Store
