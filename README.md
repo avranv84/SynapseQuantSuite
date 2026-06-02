@@ -1,8 +1,6 @@
 # SynapseQuantSuite
 Bienvenido a la versión de Windows/MaOS de Synapse. Esta herramienta automatiza tus operaciones en Bitso Alpha de forma local y segura.
 =====================================================================
-"Copyright © 2026 Abraham Esau Valle Anaya. Todos los derechos reservados. Este software es de uso gratuito pero su redistribución o modificación sin autorización explícita está prohibida."
-=====================================================================
 ⚙️ MANUAL DE INICIO RÁPIDO - SYNAPSE MULTI-ASSET QUANT SUITE ⚙️
 =====================================================================
 
@@ -56,9 +54,10 @@ de 30 días.
 
 - Vencimiento de esta versión: 1 de Julio de 2026.
 - Al cumplirse la fecha, por favor descarga la nueva versión 
-  actualizada en nuestra plataforma oficial para continuar operando.
-
+  actualizada en nuestra plataforma oficial para continuar operando.  
 =====================================================================
 ¡Tus cíborgs financieros ya están patrullando el mercado!
 Synapse Quant Suite — Automatización Cuantitativa de Custodia Propia.
+=====================================================================
+  "Copyright © 2026 Abraham Esau Valle Anaya. Todos los derechos reservados. Este software es de uso gratuito pero su redistribución o modificación sin autorización explícita está prohibida."
 =====================================================================
